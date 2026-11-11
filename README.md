@@ -1,4 +1,5 @@
 Zapallar LPR
+
 Reconocimiento de matrículas sobre Avigilon ACC. Dos piezas:
 
 middleware/ — recibe el webhook de ACC con la matrícula y el ROI, y expone la cola de fotos pendientes. Node + Express + MySQL.
